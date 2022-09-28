@@ -17,9 +17,6 @@
     color: rgb(0, 0, 0);
   }
   
-  .topnav a.active {
-    color: rgb(70, 166, 196);
-  }
 
   body, html {
     height: 150%;
